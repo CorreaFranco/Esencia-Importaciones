@@ -1,0 +1,1 @@
+Este fue mi primer proyecto personal, es una pagina de venta de productos, la pagina es real, esto significa que las ventas son reales, esta pagina esta diseñada unicamente con HTML Y CSS, la hice en paralelo a mi curso de HTMLS Y CSS EGG.
